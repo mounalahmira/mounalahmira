@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 👋 Hi!, I'm Mouna</br>
-AI student and data scientist with skills in machine learning, data analysis, </br>and deep learning. I enjoy tackling real-world problems through data-driven projects.
 
 🔍 I specialize in:
 
@@ -21,7 +20,6 @@ AI student and data scientist with skills in machine learning, data analysis, </
 - Data visualization & analysis with Python
 - AI models and frameworks (TensorFlow, Keras, scikit-learn)
 - Data engineering 
-
 
 💼 Currently, I'm diving deep into predictive analytics and data visualization .
 

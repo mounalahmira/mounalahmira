@@ -20,10 +20,10 @@ AI student and data scientist with skills in machine learning, data analysis, </
 - Machine learning algorithms
 - Data visualization & analysis with Python
 - AI models and frameworks (TensorFlow, Keras, scikit-learn)
-- Data engineering and data pipelines
+- Data engineering 
 
 
-💼 Currently, I'm diving deep into large language models and predictive analytics.
+💼 Currently, I'm diving deep into predictive analytics and data visualization .
 
 Feel free to check out my repositories and connect with me for collaborations!</br>
 
